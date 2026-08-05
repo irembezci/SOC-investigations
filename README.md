@@ -19,7 +19,7 @@ The goal of this repository is to document my learning journey, strengthen my in
 
 | Investigation ID | Title | Platform |
 |------------------|-------|----------|
-| SOC165 | [Possible SQL Injection Payload Detected](https://github.com/irembezci/SOC-investigations/blob/main/possible-SQL-injection-payload.md) | LetsDefend |
+| SOC165 | [Possible SQL Injection Payload Detected](possible-SQL-injection-payload.md) | LetsDefend |
 | SOC146 | [Phishing Mail Detected – Excel 4.0 Macros](https://www.linkedin.com/pulse/step-by-step-guide-letsdefend-soc146-phishing-mail-detected-bezci-45mnc/) | LetsDefend |
 
 ## What You'll Find in This Repository
