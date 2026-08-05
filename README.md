@@ -15,26 +15,30 @@ The goal of this repository is to document my learning journey, strengthen my in
 - Build a portfolio of Blue Team investigations
 
 
-## Completed Investigations
+## Investigation Portfolio
 
 | Investigation ID | Title | Platform |
-|------------------|--------------------------------------------------|----------|
-| [SOC165 – Possible SQL Injection Payload Detected](reports/soc165-possible-sql-injection/README.md) | GitHub |
-| SOC146 | [Phishing Mail Detected – Excel 4.0 Macros](https://www.linkedin.com/pulse/step-by-step-guide-letsdefend-soc146-phishing-mail-detected-bezci-45mnc/) | LinkedIn |
+|------------------|-------|----------|
+| SOC165 | [Possible SQL Injection Payload Detected](reports/soc165-possible-sql-injection/) | LetsDefend |
+| SOC146 | [Phishing Mail Detected – Excel 4.0 Macros](https://www.linkedin.com/pulse/step-by-step-guide-letsdefend-soc146-phishing-mail-detected-bezci-45mnc/) | LetsDefend |
 
-## Skills Demonstrated
+## What You'll Find in This Repository
 
-- Alert Triage
-- Threat Intelligence
-- Log Correlation
-- HTTP Traffic Analysis
-- Web Attack Investigation
-- Endpoint Investigation
-- IOC Identification
-- Incident Documentation
-- Incident Classification
-- Escalation Decision Making
+Each investigation is designed to document not only the outcome of an incident but also the analytical process behind it.
+
+The case studies include:
+
+- Alert validation and triage
+- Evidence collection and log correlation
+- Threat intelligence enrichment
+- Endpoint and network investigation
+- Web, email, and malware analysis
+- Incident classification and impact assessment
+- Investigation findings and analyst notes
+- Final conclusions supported by collected evidence
 
 ## Disclaimer
 
-All investigations were performed in the LetsDefend training environment for educational purposes. The reports reflect my own investigation methodology and analytical reasoning while following industry-standard SOC investigation practices.
+The investigations in this repository are based on scenarios from training platforms, laboratory environments, and hands-on cybersecurity exercises.
+
+The reports represent my own analysis, investigation methodology and technical documentation. Their purpose is to demonstrate practical SOC investigation skills and should not be interpreted as official solutions or real-world incident reports.
